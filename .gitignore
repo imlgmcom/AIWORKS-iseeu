@@ -1,0 +1,26 @@
+# 人脸模板数据
+face/
+
+# 备份文件夹
+.bak/
+
+# 快照/截图
+snapshots/
+
+# Python 运行环境
+py312/
+
+# 模型文件
+models/
+
+# Git 管理脚本（本地工具，不入库）
+init_git.bat
+update.bat
+
+# 其他常见忽略项
+__pycache__/
+*.pyc
+.venv/
+*.log
+.vscode/
+.idea/
